@@ -1,0 +1,25 @@
+h1 {
+  text-align: center;
+}
+
+div.debit {
+  background-color: red;
+}
+
+div.credit {
+  background-color: green;
+}
+
+div.transaction {
+  width: 250px;
+  border-radius: 20px;
+  margin: 13px 13px 13px 0px;
+  color: white;
+  padding : 15px 15px 15px 25px;
+  font-size : 30px;
+  cursor: pointer;
+}
+
+.hidden {
+  display: none;
+}

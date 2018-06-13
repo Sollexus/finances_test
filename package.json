@@ -1,0 +1,16 @@
+{
+  "name": "finances",
+  "version": "1.0.0",
+  "description": "AE node.js technical task",
+  "main": "app.js",
+  "scripts": {
+    "start": "concurrently \"node server.js\" \"cd client && npm start\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex P.",
+  "license": "ISC",
+  "dependencies": {
+    "concurrently": "^3.5.1",
+    "express": "^4.16.3"
+  }
+}
