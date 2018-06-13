@@ -17,7 +17,7 @@ Opens [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## Adding transactions
 
-To add a transaction, make a POST request to http://localhost:3000/transactions endpoint with the body like:
+To add a transaction, make a POST request to http://localhost:3001/transactions endpoint with the body like:
 
 {
   "type" : "debit",
