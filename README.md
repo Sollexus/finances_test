@@ -9,6 +9,7 @@ This project is AE fullstack test task implemented using node.js + react.js
 
 In the project directory, you can run:
 
+### `npm install`
 ### `npm start`
 
 It will start node.js server and react.js client app with a list of transactions and current balance
